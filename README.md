@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/konduri-rahul-787233195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konduri-rahul-787233195" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/konduri-rahul-787233195" target="blank" align="middle">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="konduri-rahul-787233195" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/konduri_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="konduri_rahul" height="30" width="40" /></a>
 </p>
 
@@ -18,5 +19,6 @@
 
 <p aligm ="middle"><img align="midlle" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkonduri&show_icons=true&locale=en&layout=compact" alt="rahulkonduri" /></p>
 
-
+<p><img src="https://leetcode.card.workers.dev/konduri_rahul?theme=nord&font=baloo&extension=activity" alt="leetcode stats"</p>
+<!-- <p height="150"><img src="https://leetcode.card.workers.dev/konduri_rahul?theme=unicorn&font=source_code_pro&extension=activity" alt="leetcode stats"</p> -->
 
