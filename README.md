@@ -23,7 +23,7 @@
 
 <div display="flex"  align="left" >
   <p><img align="midlle" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulkonduri&show_icons=true&locale=en&layout=compact" alt="rahulkonduri" /></p>
-  <p><img src="https://leetcode.card.workers.dev/konduri_rahul?theme=unicorn&font=baloo&extension=null" alt="leetcode stats"/></p>
+  <p><a href="https://www.leetcode.com/konduri_rahul" target="blank"><img src="https://leetcode.card.workers.dev/konduri_rahul?theme=unicorn&font=baloo&extension=null" alt="leetcode stats"/></p>
 </div>
 <!-- <p height="150"><img src="https://leetcode.card.workers.dev/konduri_rahul?theme=unicorn&font=source_code_pro&extension=activity" alt="leetcode stats"</p> -->
 
