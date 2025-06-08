@@ -6,7 +6,7 @@
 <div align="left">
   <h5>- 🔭 I’m currently working on Backend Development</h5>
 
-<h5>- 🌱 I’m currently learning Node.js and Microservices</h5>
+<h5>- 🌱 I’m currently learning Springboot and Microservices</h5>
 </div>
 
 <h3 align="left">Connect with me:</h3>
